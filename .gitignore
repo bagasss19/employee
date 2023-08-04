@@ -126,4 +126,4 @@ dist
 .pnp.*
 
 # pdf
-*.pdf
+.pdf
