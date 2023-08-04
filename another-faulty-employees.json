@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "lori",
+    "managerId": null
+  },
+  {
+    "id": 2,
+    "name": "fletcher",
+    "managerId": 1
+  },
+  {
+    "id": 3,
+    "name": "tabitha",
+    "managerId": 1
+  },
+  {
+    "id": 4,
+    "name": "linton",
+    "managerId": 2
+  },
+  {
+    "id": 5,
+    "name": "tressa",
+    "managerId": 3
+  },
+  {
+    "id": 4,
+    "name": "linton",
+    "managerId": 3
+  },
+  {
+    "id": 6,
+    "name": "tressa",
+    "managerId": 2
+  },
+  {
+    "id": 7,
+    "name": "keane",
+    "managerId": null
+  }
+]
