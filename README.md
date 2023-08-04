@@ -12,7 +12,7 @@ employee hierarchy app
 - loki
 
 # How to run
-1. run docker compose up
+1. run docker compose up -d
 2. Go to localhost:8000/docs to see API documentaion
 
 # Test & Coverage
